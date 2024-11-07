@@ -11,7 +11,7 @@
 
 <br>
 
-Este repositorio contiene un [script](https://github.com/mck21/SqlFilmRentalStore/blob/main/query/query.sql) con consultas SQL a una base de datos postgres de una tienda de alquiler de películas.<br><br>
+Este repositorio contiene un [script](https://github.com/mck21/SqlFilmRentalStore/blob/main/query/queryES.sql) con consultas SQL a una base de datos postgres de una tienda de alquiler de películas.<br><br>
 
 # Diagrama de la base de datos
 
