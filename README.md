@@ -52,5 +52,16 @@ Este repositorio contiene un [script](https://github.com/mck21/SqlFilmRentalStor
 - **store** (tienda): contiene detalles sobre las tiendas donde se alquilan las películas, incluyendo su ubicación y gerente.
 
 
+# Paso a paso
+
+1 > Crea una conexión PostgreSQL en DBeaver: **Database** > **New Database Connection** > **PostgreSQL**.
+
+2 > Abre un nuevo script SQL en la conexión creada.
+
+3 > Importa o copia el contenido de [create_db.sql](https://github.com/mck21/SqlFilmRentalStore/blob/main/schema/create_db.sql) desde el repositorio al nuevo script.
+
+4 > Ejecuta el script para crear la base de datos (`Run` o `Ctrl + Enter`).
+
+Listo!
 
 
